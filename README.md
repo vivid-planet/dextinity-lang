@@ -1,3 +1,3 @@
 # dextinity-lang
 
-Language files for [Dextinity Core](https://github.com/vivid-planet/dextinity).
+Language files for [Dextinity](https://github.com/vivid-planet/dextinity).
