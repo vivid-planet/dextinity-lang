@@ -146,7 +146,6 @@
   "dextinity.blocks.tipTapRichText.editBlock": "Edit \"{block}\"",
   "dextinity.blocks.tipTapRichText.editLink": "Edit link \"{link}\"",
   "dextinity.blocks.tipTapRichText.indent.tooltip": "Increase indent",
-  "dextinity.blocks.tipTapRichText.inlineStyle.default": "Default",
   "dextinity.blocks.tipTapRichText.insertBlock": "Insert \"{block}\"",
   "dextinity.blocks.tipTapRichText.insertBlock.tooltip": "Insert block",
   "dextinity.blocks.tipTapRichText.insertLink": "Insert link",
