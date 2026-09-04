@@ -145,7 +145,6 @@
   "dextinity.blocks.tipTapRichText.dedent.tooltip": "Einzug verkleinern",
   "dextinity.blocks.tipTapRichText.editLink": "Link bearbeiten „{link} “",
   "dextinity.blocks.tipTapRichText.indent.tooltip": "Einzug vergrößern",
-  "dextinity.blocks.tipTapRichText.inlineStyle.default": "Standard",
   "dextinity.blocks.tipTapRichText.insertLink": "Link einfügen",
   "dextinity.blocks.tipTapRichText.italic.tooltip": "Kursiv",
   "dextinity.blocks.tipTapRichText.link.tooltip": "Link",
