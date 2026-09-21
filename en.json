@@ -304,6 +304,8 @@
   "dextinity.dam.file.license.validUntil": "Valid until:",
   "dextinity.dam.file.licenseDetails": "License details",
   "dextinity.dam.file.licenseDuration": "License duration",
+  "dextinity.dam.file.licenseDurationFrom": "From",
+  "dextinity.dam.file.licenseDurationTo": "To",
   "dextinity.dam.file.licenseInformation": "License information",
   "dextinity.dam.file.licenseType.rightsManaged": "Rights managed",
   "dextinity.dam.file.licenseType.royaltyFree": "Royalty free",
