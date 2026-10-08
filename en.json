@@ -400,6 +400,8 @@
   "dextinity.dependencies.dataGrid.cannotLoadUrl": "Cannot determine URL",
   "dextinity.dependencies.dataGrid.nameAndInfo": "Name/Info",
   "dextinity.dependencies.dataGrid.reloadTooltip": "Reload",
+  "dextinity.dependencies.dataGrid.scope": "Scope",
+  "dextinity.dependencies.dataGrid.scopeNotAllowed": "You don't have access to the scope of this item.",
   "dextinity.dependencies.dataGrid.secondaryInformation": "Secondary information",
   "dextinity.dependencies.dataGrid.type": "Type",
   "dextinity.dependencies.dataGrid.visible": "Visible",
