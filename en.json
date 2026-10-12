@@ -937,6 +937,7 @@
   "dextinity.warning.severity.low": "Low",
   "dextinity.warning.severity.medium": "Medium",
   "dextinity.warning.type": "Type",
+  "dextinity.warning.visible": "Visible",
   "dextinity.warnings.file.license.expired": "File license has expired",
   "dextinity.warnings.file.license.required": "File license is missing",
   "dextinity.warnings.file.license.soonToExpire": "File license expires soon",
