@@ -665,6 +665,7 @@
   "dextinity.pages.pages.documentDoesntExist": "This document doesn't exist",
   "dextinity.pages.pages.documentHasBeenArchived": "This document has been archived and can no longer be edited",
   "dextinity.pages.pages.editContent": "Edit content",
+  "dextinity.pages.pages.noPagesYet": "No pages yet",
   "dextinity.pages.pages.notFound": "Not found",
   "dextinity.pages.pages.page.canNotDeleteDialog.content": "WARNING: You can not delete the selected pages, because you have not fully selected all sub pages.",
   "dextinity.pages.pages.page.canNotDeleteDialog.title": "Can not delete selected pages.",
