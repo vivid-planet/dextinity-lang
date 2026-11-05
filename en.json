@@ -188,6 +188,8 @@
   "dextinity.brevoConfig.allowedRedirectionUrl": "Allowed redirection URL",
   "dextinity.brevoConfig.allowedRedirectionUrl.info": "Defines the schema of a valid redirection URL that is set when creating or importing contacts.",
   "dextinity.brevoConfig.allowedRedirectionUrl.validationError": "Please enter a valid URL.",
+  "dextinity.brevoConfig.brevoRequestFailed.description": "Make sure a valid Brevo API key is configured and the API's IP address is authorized in Brevo.",
+  "dextinity.brevoConfig.brevoRequestFailed.title": "Couldn't load data from Brevo",
   "dextinity.brevoConfig.doubleOptInTemplate": "Double Opt-in template id",
   "dextinity.brevoConfig.folderId": "Folder ID",
   "dextinity.brevoConfig.folderId.info": "By default, the folder ID should be set to 1 unless you have specifically configured another folder in Brevo.",
