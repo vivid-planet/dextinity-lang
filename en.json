@@ -372,6 +372,7 @@
   "dextinity.damMediaAlternatives.language": "Language",
   "dextinity.damMediaAlternatives.title": "File",
   "dextinity.damVideoBlock.tag.video": "Video",
+  "dextinity.dashboard.latestBuildsWidget.error": "The latest builds couldn't be loaded.",
   "dextinity.dashboard.latestBuildsWidget.runtime": "Runtime",
   "dextinity.dashboard.latestBuildsWidget.status": "Status",
   "dextinity.dashboard.latestBuildsWidget.title": "Latest Builds",
